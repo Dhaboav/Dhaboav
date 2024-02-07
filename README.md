@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhammiko Bodhi Avatara</h1>
 <h3 align="center">An undergraduate person from Indonesia</h3>
 
-- 🔭 I’m currently working on [Nothing]
+- 🔭 I’m currently working on Soccer Robot
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ROS2**
 
 - 👨‍💻 All of my projects are available at [Soon...](Soon...)
 
