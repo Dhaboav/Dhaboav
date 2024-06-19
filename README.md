@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Dhammiko Bodhi Avatara</h1>
 <h3 align="center">An undergraduate person from Indonesia</h3>
 
-- 🔭 I’m currently working on Soccer Robot
+- 🔭 I’m currently working on Gemastik and PKM-RE
 
-- 🌱 I’m currently learning **ROS2**
+- 🌱 I’m currently learning **MySQL**
 
-- 👨‍💻 All of my projects are available at [Soon...](Soon...)
+- 👨‍💻 All of my projects are available at [dhaboav.github.io](https://dhaboav.github.io/)
 
 - 💬 Ask me about **Opencv**
 
-- 📫 How to reach me **nonefornow**
+- 📫 You can contact me at [dhaboav.github.io](https://dhaboav.github.io/)
 
-- 📄 Know about my experiences [Soon...](Soon...)
+- 📄 Know about my experiences at [dhaboav.github.io](https://dhaboav.github.io/)
 
-- ⚡ Fun fact **Idk what to write**
+- ⚡ Fun fact **I am committed to refining my coding skills daily, striving for continuous improvement and mastery.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhammiko-bodhi-avatara-49a84b291/?originalsubdomain=id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/dhammiko-bodhi-avatara-49a84b291/?originalsubdomain=id" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhammiko-bodhi-avatara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhammiko-bodhi-avatara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
