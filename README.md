@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhammiko Bodhi Avatara</h1>
 <h3 align="center">An undergraduate person from Indonesia</h3>
 
-- 🔭 I’m currently working on Gemastik and PKM-RE
+- 🔭 I’m currently working on -
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **-**
 
 - 👨‍💻 All of my projects are available at [dhaboav.github.io](https://dhaboav.github.io/)
 
