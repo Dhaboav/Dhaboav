@@ -1,62 +1,46 @@
-<h1 align="center">Hi 👋, I'm Dhammiko Bodhi Avatara</h1>
-<h3 align="center">An Undergraduate Developer Passionate About OpenCV and Computer Vision</h3>
+# Welcome to Dhaboav's Domain – A Space for Personal Projects and Exploration 🤖
 
-<p align="center">
+Greetings! I'm Dhammiko Bodhi Avatara, a developer focused on computer vision and a bit of robotics. Inspired by the strategic battles and advanced technology of Gundam, I strive to continuously improve my coding skills and tackle challenges with innovative solutions.
+
+**System Boot Time (UTC):** `2024-04-24 18:00:00`
+
+**Registered Pilot:** `Dhaboav`
+
+<p>
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
 </p>
 
----
+## 🔍 About Me: The Case File
 
-- 🔭 **I’m currently working on:** My final year project, integrating OpenCV with FastAPI 🚀  
-- 🌱 **I’m currently learning:** Math for computer vision and Python skills 📚  
-- 💬 **Ask me about:** OpenCV, Python, or anything related to Computer Vision!  
-- 📫 **Contact me at:** [dhaboav.github.io](https://dhaboav.github.io/)  
-- 📄 **Know about my experiences:** [dhaboav.github.io](https://dhaboav.github.io/)  
-- ⚡ **Fun fact:** I’m an anime enthusiast who loves Gundam and Aldnoah.Zero while coding!  
+- **Mission:** Crafting robust and efficient Python applications, with a sharp focus on computer vision, just like designing a new mobile suit.
+- **Skills:** Deconstructing complex problems into manageable, Pythonic solutions, like analyzing enemy formations on the battlefield.
+- **Motivation:** Driven by the pursuit of knowledge and the satisfaction of building impactful tools, aiming for a world without conflict (or bugs!).
+- **Currently Investigating:** My final year project, integrating OpenCV with FastAPI for object detection, aiming to improve system accuracy—ready to take on the challenges ahead, just like the ZGMF-X56S Impulse Gundam.
+- **Seeking Collaboration On:** Innovative projects that push the boundaries of computer vision and AI, developing the next generation of mobile suit technology.
+- **Contact:** Drop me a line at [dhaboav.github.io](https://dhaboav.github.io). Your message is top priority!
+- **Fun Fact:** When I’m not coding, I’m strategizing my next move in a game or diving into new creative projects, always ready to take on the next challenge.
 
----
+## 🧰 Arsenal: Technologies & Tools
 
-<h4>🌐 Connect with Me:</h4>
-<p>
-  <a href="https://www.linkedin.com/in/dhammiko-bodhi-avatara" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://dhaboav.github.io/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="30" width="40" />
-  </a>
-</p>
+- **Languages:** Python (Primary), C++
+- **Frameworks:** FastAPI, Laravel, TailwindCSS
+- **Libraries:** OpenCV
+- **Databases:** MySQL
 
----
 
-<h4>💻 Languages and Tools:</h4>
-<p>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
+## 🕵️‍♂️ Current Investigations: Projects
 
----
+- **dataset-tools:** Developing a Python-based modular utility toolkit for managing datasets in machine learning and AI applications. Think of it as a mobile suit databook, but for Coordinators!
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<div align="center">
+## 📊 Intel Gathering: GitHub Stats
+
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhaboav&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaboav&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Langs" />
 </div>
 
----
+## 🔗 Network: Connect with Me
 
-<h3 align="center">💡 Fun Section:</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
-  <br>
-  <em>"Every line of code I write brings me closer to building something amazing!"</em>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/dhaboav)
+  
+Thanks for stopping by my profile! Feel free to explore my repositories and connect with me if you're interested in collaborating on any exciting projects. Let's build a better future, one line of code at a time! ✨
