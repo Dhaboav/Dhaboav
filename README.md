@@ -32,7 +32,7 @@ Greetings! I'm Dhammiko Bodhi Avatara, a developer focused on computer vision an
 
 - **dataset-tools:** Developing a Python-based modular utility toolkit for managing datasets in machine learning and AI applications. Think of it as a mobile suit databook, but for Coordinators!
 
-- **TrueFormat:** Web based app to check image. 
+- **TrueFormat:** Web based app to check image format. 
 
 ## 📊 Intel Gathering: GitHub Stats
 
